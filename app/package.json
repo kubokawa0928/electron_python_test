@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "electron": "^4.0.4"
+  },
   "dependencies": {
-    "electron": "^4.0.4",
     "jquery": "^3.3.1",
     "python-shell": "^1.0.7"
   }
